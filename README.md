@@ -2,6 +2,7 @@
 Objetivos personales
 
 Mis objetivos personales con este proyecto son:
+
     • Mejorar mis conocimientos de CSS:
         ◦ Manejo de la librería Boostrap
     • Mejorar mis conocimientos de JavaScript y React:
